@@ -1,0 +1,2 @@
+c:\users\abdulga\documents\visual studio 2015\Projects\testSF\testSF\obj\x64\Debug\testSF.sfprojResolveAssemblyReference.cache
+C:\shared\testSF\testSF\obj\x64\Debug\testSF.sfprojResolveAssemblyReference.cache
